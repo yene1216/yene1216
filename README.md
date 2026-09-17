@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Yenesew Enyew Kassie
 
-<!--
-**yene1216/yene1216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Graduate | Full-Stack Developer
 
-Here are some ideas to get you started:
+🚀 I'm interested in building modern web and mobile applications, backend systems, AI/ML, RAG, and Agentic AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I'm currently working with:
+- 🐍 Python & Django
+- ⚡ FastAPI
+- ⚛️ React & Next.js
+- 📱 React Native
+- 🗄️ PostgreSQL & REST APIs
+- 🤖 AI/ML, RAG & Agentic AI
+- 🐳 Docker & Git
+
+🔭 I'm currently building projects involving:
+- AI-powered applications
+- Enterprise management systems
+- Web & mobile applications
+- Data analysis and automation
+
+🤝 I'm interested in collaborating on open-source projects and practical software solutions.
+
+📫 How to reach me:
+- 📧 Email: yenesewenyew47@gmail.com 
+- 💼 LinkedIn: https://www.linkedin.com/in/yenesew-enyew-122079422/
+- 🐙 GitHub: https://github.com/yene1216
+- 
