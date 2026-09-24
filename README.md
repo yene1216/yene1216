@@ -19,7 +19,7 @@
 - Web & mobile applications
 - Data analysis and automation
 
-🤝 I'm interested in collaborating on open-source projects and practical software solutions.
+#🤝 I'm interested in collaborating on open-source projects and practical software solutions.
 
 📫 How to reach me:
 - 📧 Email: yenesewenyew47@gmail.com 
